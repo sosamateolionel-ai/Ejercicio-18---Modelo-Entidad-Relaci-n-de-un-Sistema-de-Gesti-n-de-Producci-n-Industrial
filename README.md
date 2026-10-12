@@ -1,0 +1,2 @@
+# Ejercicio-18---Modelo-Entidad-Relaci-n-de-un-Sistema-de-Gesti-n-de-Producci-n-Industrial
+Este ejercicio consiste en diseñar un modelo Entidad-Relación (DER) para un sistema de gestión de producción industrial y control de calidad[cite: 12]. El modelo permite administrar artículos, estructuras de lista de materiales (BOM), líneas de montaje, empleados, órdenes de fabricación e inspecciones de calidad.
